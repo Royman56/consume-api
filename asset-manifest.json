@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consume-api/static/css/main.19ec9a02.css",
+    "main.js": "/consume-api/static/js/main.8dd1e080.js",
+    "index.html": "/consume-api/index.html",
+    "main.19ec9a02.css.map": "/consume-api/static/css/main.19ec9a02.css.map",
+    "main.8dd1e080.js.map": "/consume-api/static/js/main.8dd1e080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ec9a02.css",
+    "static/js/main.8dd1e080.js"
+  ]
+}
