@@ -1,0 +1,12 @@
+.input input {
+    width: 50%;
+    height: 30px;
+    border-radius: 10px ;
+    border-color: transparent;
+    
+  
+    background-color: rgba(255, 255, 255, 0.3);
+
+    display: block;
+    margin: auto;
+}

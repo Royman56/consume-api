@@ -1,0 +1,7 @@
+.ContainerCards{
+display: grid;
+grid-template-columns: repeat(4, minmax(15rem,1fr));
+box-sizing: border-box;
+row-gap: 10px;
+column-gap: 10px;
+}

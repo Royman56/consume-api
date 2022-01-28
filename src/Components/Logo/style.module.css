@@ -1,0 +1,10 @@
+.styleimg {
+    background: linear-gradient(rgb(28, 0, 128),rgb(255, 21, 21));
+    width: 100%;
+}
+
+.styleimg a img{
+   
+    display: block;
+    margin: auto;
+} 
